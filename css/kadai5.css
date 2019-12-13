@@ -1,0 +1,91 @@
+div.top{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 30px;
+    
+}
+div.middle{
+    width: 1000px;
+    height: 320px;
+    background-color: dodgerblue;
+    margin: 20px 0px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+}
+
+div.left{
+    width: 250px;
+    height: 320px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+    background-color: crimson;
+}   
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: darkviolet;
+    font-size: 15px;
+    color: blanchedalmond;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0px;
+    background-color: darkviolet;
+    font-size: 15px;
+    color: blanchedalmond;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: darkviolet;
+    font-size: 15px;
+    color: blanchedalmond;
+}
+
+div.right{
+    width: 700px;
+    height: 320px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.images{
+    width: 700px;
+    height: 300px;
+    background-color: chartreuse;
+    font-size: 15px;
+}
+
+div.hitokoto{
+    width: 700px;
+    height: 20px;
+    background-color:lightsalmon;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: cornflowerblue;
+    text-align: right;
+    font-size:30px;
+    font-family: "Impact";
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}

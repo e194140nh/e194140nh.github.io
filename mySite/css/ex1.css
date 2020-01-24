@@ -1,0 +1,25 @@
+h1{
+    background-color:lightcyan;
+    color: grey;
+    text-align: center;
+}
+body{
+    background-image: url(../images/18.jpg);
+}
+h2{
+    background-color: lightpink;
+    color: grey;
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: darkblue;
+}
+ol{
+    background-image: url(../images/450-20110831085028164712.jpg)
+}
+table{
+    background-color:cornflowerblue;
+}
